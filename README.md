@@ -1,4 +1,4 @@
-# Multi-Threaded Web Scraper in Python
+# Indeed.com Jobs Scraper in Python with Selenium Library
 
 ## Installation
 1. Clone the repo
