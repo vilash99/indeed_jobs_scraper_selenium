@@ -18,6 +18,11 @@ pip install -r requirements.txt
 ```bash
 python indeed_jobs_scraper.py
 ```
+
+## Which fields are being scrapped?
+![screenshot](screenshot.png)
+
+
 ## Contribution
 Feel free to contribute to the project by submitting bug reports, feature requests, or pull requests. Your contributions are highly appreciated.
 
